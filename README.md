@@ -13,7 +13,8 @@ But maybe you only get localized lists from HR and must import them somehow? Thi
 Just take any latin character from file (must be UTF8!) or variable and pipe it to the function or post it directly to the $InputObject parameter:
 
 `'Löffel' | ConvertTo-WesternScript
-`Result: Loeffel
+
+Result: Loeffel
 
 ### Remarks
 
